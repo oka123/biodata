@@ -1,0 +1,22 @@
+@media screen and (max-width: 576px) {
+    h3 {
+        font-size: 16px;
+    }
+    .biodata__photo-container {
+      width: 72px;
+      height: 96px;
+    }
+    .biodata__photo {
+      width: 72px;
+      height: 96px;
+    }
+    body {
+      font-size: 12px;
+    }
+    .biodata__key-container {
+      flex-basis: 40%;
+    }
+    .biodata__value-container {
+      flex-basis: 60%;
+    }
+  }
